@@ -1,0 +1,10 @@
+{
+  "package-name": "yankee-airport-rjda-amakusa",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "RJDA",
+      "revision": 1
+    }
+  ]
+}
